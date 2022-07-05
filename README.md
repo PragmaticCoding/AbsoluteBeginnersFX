@@ -7,7 +7,7 @@ This is a series of articles intended to teach how to program with JavaFX the "r
 
 Along the way, you'll learn about layout classes, builders, styling, using background threads, handling exceptions, implementing business rules and just about everything you need to know to build a real, robust application.
 
-If you are interested, the course can be found at https:www.progmaticcoding.ca/beginners/intro
+If you are interested, the course can be found at https:www.pragmaticcoding.ca/beginners/intro
 
 # Using this Project 
 
