@@ -1,0 +1,15 @@
+.root {
+   prompt-colour: #a04000;
+   greeting-colour: #6000b0;
+}
+
+.greeting-label {
+   -fx-text-fill: greeting-colour;
+   -fx-font-size: 32px;
+}
+
+.prompt-label {
+   -fx-text-fill: prompt-colour;
+   -fx-font-size: 16px;
+   -fx-font-weight: bold;
+}
